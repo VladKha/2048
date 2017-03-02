@@ -1,7 +1,4 @@
+.DS_Store
+.gitignore
 .sass-cache/
 .idea
-#.idea/2048.iml
-#.idea/inspectionProfiles/
-#.idea/misc.xml
-#.idea/modules.xml
-#.idea/workspace.xml
